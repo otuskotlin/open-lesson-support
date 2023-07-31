@@ -1,7 +1,7 @@
 operator-bot:
   tokens:
-    - "token1"
-    - "token2"
+    - "6529017244:AAEYXRo1qdxv0kcgOeoZggfC_VtSSSnmVzs"
+    - "6675176044:AAFfcsAax5jZOxzmZfBa4njBShgwY1b8N9Y"
 
 client-bot:
-  token: "token3"
+  token: "6545357511:AAFgYu0PW_AV87Hdc_OqtjPYU8g-7VhUM4U"

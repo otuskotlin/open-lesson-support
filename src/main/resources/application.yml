@@ -1,0 +1,8 @@
+operator:
+  accept-timeout: 20s
+  inactivity-timeout: 30s
+
+  logging:
+    level:
+      io.r2dbc.postgresql.QUERY: DEBUG # for queries
+      io.r2dbc.postgresql.PARAM: DEBUG # for parameters

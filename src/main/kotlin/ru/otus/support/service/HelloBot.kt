@@ -7,7 +7,7 @@ import com.github.kotlintelegrambot.entities.ChatId
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.stereotype.Service
 
-@Service
+//@Service
 class HelloBot(
     @Value("\${client-bot.token}")
     token: String,
