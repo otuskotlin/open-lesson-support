@@ -1,0 +1,7 @@
+operator-bot:
+  tokens:
+    - "token1"
+    - "token2"
+
+client-bot:
+  token: "token3"

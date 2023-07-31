@@ -7,5 +7,10 @@ import org.springframework.boot.runApplication
 class SupportApplication
 
 fun main(args: Array<String>) {
-    runApplication<SupportApplication>(*args)
+    val ctx = runApplication<SupportApplication>(*args)
+    println(
+        """    
+        count = ${ctx.beanDefinitionCount}
+        """.trimIndent()
+    )
 }
